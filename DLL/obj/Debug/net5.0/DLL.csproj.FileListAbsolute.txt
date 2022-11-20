@@ -1,0 +1,15 @@
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\DLL.deps.json
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\DLL.runtimeconfig.json
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\DLL.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\DLL.dll
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\ref\DLL.dll
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\bin\Debug\net5.0\DLL.pdb
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.dll
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\ref\DLL.dll
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.pdb
+C:\Users\Sergey\source\repos\ThreeLayerArhitecture\DLL\obj\Debug\net5.0\DLL.genruntimeconfig.cache
